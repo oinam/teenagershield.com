@@ -25,15 +25,20 @@ export default defineConfig({
 
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Guides', link: '/guides' }
+      { text: 'About', link: '/about' },
+      { text: 'Guides', link: '/guides' },
+      { text: 'Donate', link: '/donate' },
+      { text: 'Contact', link: '/contact' },
     ],
 
     sidebar: [
       {
-        text: 'Guides',
         items: [
+          { text: 'About', link: '/about' },
           { text: 'Guides', link: '/guides' },
-          { text: 'Advertisements', link: '/advertisements' }
+          { text: 'Advertisements', link: '/advertisements' },
+          { text: 'Donate', link: '/donate' },
+          { text: 'Contact', link: '/contact' },
         ]
       }
     ],
@@ -41,7 +46,7 @@ export default defineConfig({
     socialLinks: [
       { icon: 'twitter', link: 'https://x.com/TeenagerShield' },
       { icon: 'instagram', link: 'https://www.instagram.com/TeenagerShield' },
-      { icon: 'github', link: 'https://github.com/oinam/teenagershield.com' }
+      { icon: 'github', link: 'https://github.com/oinam/teenagershield.com' },
     ]
   }
 })
