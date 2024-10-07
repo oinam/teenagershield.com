@@ -1,0 +1,3 @@
+# Advertisements
+
+Teenagers (ages of  13 and 17) are being tracked across the internet using identifiers known as Advertising IDs. When children turn 13, they age out of the data protections provided by the [Children’s Online Privacy Protection Act](https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa) (COPPA). Then, they become targets for data collection from data brokers that collect their information from social media apps, shopping history, location tracking services, and more. Data brokers then process and sell the data.
