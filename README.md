@@ -21,4 +21,4 @@ The content is powered by [VitePress](https://vitepress.dev).
 ## Deploy
 
 - Source: [github.com/oinam/teenagershield.com](https://github.com/oinam/teenagershield.com)
-- Host: Netlify
+- Host: [Netlify](https://www.netlify.com)

@@ -39,6 +39,8 @@ export default defineConfig({
     ],
 
     socialLinks: [
+      { icon: 'twitter', link: 'https://x.com/TeenagerShield' },
+      { icon: 'instagram', link: 'https://www.instagram.com/TeenagerShield' },
       { icon: 'github', link: 'https://github.com/oinam/teenagershield.com' }
     ]
   }
